@@ -1,0 +1,745 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Algerian Administrative Division",
+          "description": "Wilayas - Daïras - baladiyahs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-20T16:43:29Z",
+            "owner": "mohsenuss91",
+            "repo": "AlgerianAdministrativeDivision",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Algerial Logos",
+          "description": "Some Algerian official vectorized (.SVG) Logos",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-30T15:57:13Z",
+            "owner": "mohsenuss91",
+            "repo": "AlgerianLogos",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Open Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Alfanous",
+          "description": "Alfanous is an Arabic search engine API provides a simple and advanced search in Quran",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-14T00:57:27Z",
+            "owner": "Alfanous-team",
+            "repo": "alfanous",
+            "stars": 287
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LSQLApp",
+          "description": "A desktop application that helps teachers in practical work (TP) to evaluate students. It also helps students to learn SQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2023-09-18T14:03:02Z",
+            "owner": "HouariZegai",
+            "repo": "LSQLApp",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vue Resume",
+          "description": "A live resume builder using VueJs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2020-05-27T23:51:22Z",
+            "owner": "SakhriHoussem",
+            "repo": "vue-resume",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenClass",
+          "description": "OpenClass is a web app that promotes information sharing through organized workshops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-11-23T19:10:53Z",
+            "owner": "youben11",
+            "repo": "open-class",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Timgad",
+          "description": "Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-02-16T10:49:07Z",
+            "owner": "OpenDZ",
+            "repo": "timgad",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cryptili",
+          "description": "Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-03-20T23:06:54Z",
+            "owner": "youben11",
+            "repo": "cryptili",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "salati",
+          "description": "an android app that helps muslims perform their prayers in time by reminding them every day when the time comes with an adhan alarm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-01-23T12:37:51Z",
+            "owner": "seif1000",
+            "repo": "salati",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ji3an",
+          "description": "Ji3an is a mobile application for food recipes and cart shopping",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2017-02-12T19:04:11Z",
+            "owner": "Taybou",
+            "repo": "JiaanApp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selma",
+          "description": "A virtual assistant backed by augmented reality capabilities, it allows you to control different appliances in your home.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2021-03-22T19:16:35Z",
+            "owner": "FdevTech",
+            "repo": "Selma",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Salat Time",
+          "description": "A simple python Web App that returns the five Islamic Prayer Times.",
+          "children": []
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "CSS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lighter",
+              "description": "Lighter is a flexible CSS micro-framework based on the visual aspect, the framework offers you a clean and easy work.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2018-11-05T20:41:57Z",
+                "owner": "amine1107",
+                "repo": "Stylizer",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hexa",
+              "description": "A simple and lightweight CSS animation library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "SCSS",
+                "last_commit": "2023-05-20T20:43:23Z",
+                "owner": "amine1107",
+                "repo": "hexa",
+                "stars": 36
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "JavaScript",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Nightly.js",
+              "description": "A zero dependency JavaScript library for enabling the Dark mode in your UI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-03-03T12:58:42Z",
+                "owner": "Fcmam5",
+                "repo": "nightly.js",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "react-graphql-redux",
+              "description": "use GraphQL to query your Redux store",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2017-01-09T15:16:12Z",
+                "owner": "youknowriad",
+                "repo": "react-graphql-redux",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jQuery Ajax Native",
+              "description": "jQuery Plugin that adds XHR2 responseType support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2019-10-11T14:50:14Z",
+                "owner": "acigna",
+                "repo": "jquery-ajax-native",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rungen",
+              "description": "A generic runtime around async flow in javascript",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2020-09-29T09:27:37Z",
+                "owner": "youknowriad",
+                "repo": "rungen",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arli",
+              "description": "JavaScript tools for an Arabic development",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PHP",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Phyber",
+              "description": "Build light-weight lightning-fast PhP applications with Phiber",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2016-02-22T22:32:58Z",
+                "owner": "ghousseyn",
+                "repo": "phiber",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FrisAI",
+              "description": "FrisAI is an A.I. based chat-bot made with PHP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "PHP",
+                "last_commit": "2018-05-21T13:56:43Z",
+                "owner": "OGFris",
+                "repo": "FrisAI",
+                "stars": 7
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Go",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go Arabic",
+              "description": "A Go Lang package for dealing with Arabic text",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2023-05-28T08:50:11Z",
+                "owner": "01walid",
+                "repo": "goarabic",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoStats",
+              "description": "GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2019-01-14T16:50:38Z",
+                "owner": "OGFris",
+                "repo": "GoStats",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ATCache",
+              "description": "ATCache is a caching server (also called a CDN) written in go, for AnimeTwist used to store video files.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2018-11-25T18:04:46Z",
+                "owner": "OGFris",
+                "repo": "ATCache",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoFiles",
+              "description": "GoFiles lets you compile your static assets within your binary and access them within the library provided.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Go",
+                "last_commit": "2018-11-13T21:00:44Z",
+                "owner": "OGFris",
+                "repo": "GoFiles",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "C",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ArduinoSpritzCipher",
+              "description": "Spritz library for Arduino, CSPRNG, cryptographic hash and MAC functions, symmetric-key data encryption, and general-purpose functions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2020-08-20T18:55:23Z",
+                "owner": "abderraouf-adjal",
+                "repo": "ArduinoSpritzCipher",
+                "stars": 76
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "internet-socket",
+              "description": "A library to facilitate the use of internet socket (socket of family PF_INET) in C programming",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2017-04-30T16:39:26Z",
+                "owner": "youben11",
+                "repo": "internet-socket",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "simple-parted",
+              "description": "A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C",
+                "last_commit": "2017-05-27T10:37:05Z",
+                "owner": "youben11",
+                "repo": "simple-parted",
+                "stars": 0
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Python",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lockdoor Framework",
+              "description": "A Penetration Testing framework with Cyber Security Resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-06-04T08:21:31Z",
+                "owner": "SofianeHamlaoui",
+                "repo": "Lockdoor-Framework",
+                "stars": 1550
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TenSEAL",
+              "description": "A library for doing homomorphic encryption operations on tensors",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C++",
+                "last_commit": "2026-08-04T09:02:35Z",
+                "owner": "OpenMined",
+                "repo": "TenSEAL",
+                "stars": 1034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emotion Recognition using Speech",
+              "description": "Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-11-03T11:51:28Z",
+                "owner": "x4nth055",
+                "repo": "emotion-recognition-using-speech",
+                "stars": 690
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Facial-expression-recognition-using-cnn",
+              "description": "Deep facial expressions recognition using Opencv and Tensorflow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-10T03:10:17Z",
+                "owner": "amineHorseman",
+                "repo": "facial-expression-recognition-using-cnn",
+                "stars": 517
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Facial-expression-recognition-svm",
+              "description": "Training SVM classifier to recognize facial expressions (emotions)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-09-13T22:52:26Z",
+                "owner": "amineHorseman",
+                "repo": "facial-expression-recognition-svm",
+                "stars": 175
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Malware Revealer",
+              "description": "A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Jupyter Notebook",
+                "last_commit": "2019-11-29T23:32:33Z",
+                "owner": "malware-revealer",
+                "repo": "malware-revealer",
+                "stars": 53
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tchamba.random",
+              "description": "package of functions generating random data (colors, names, jokes, letters..)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2017-04-09T20:18:06Z",
+                "owner": "Fcmam5",
+                "repo": "tchamba",
+                "stars": 11
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "ROS",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pionner bringup",
+              "description": "A ROS package providing ROS launch scripts for starting the Adept MobileRobots Pioneer and Pioneer-compatible robots",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CMake",
+                "last_commit": "2019-10-09T09:28:01Z",
+                "owner": "amineHorseman",
+                "repo": "pioneer_bringup",
+                "stars": 6
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pionner teleop",
+              "description": "A ROS package providing scripts for teleoperation (using keyboard, web sockets, command line or xbox360 controller) to all Adept MobileRobots Pioneer and Pioneer-compatible robots",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-09-30T20:34:19Z",
+                "owner": "amineHorseman",
+                "repo": "pioneer_teleop",
+                "stars": 4
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Other languages",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Arabic Stremmer",
+              "description": "Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-02-16T11:33:42Z",
+                "owner": "assem-ch",
+                "repo": "arabicstemmer",
+                "stars": 151
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Libraries and Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "awesome-open-minds",
+          "description": "awesome useful links, resources, and shiny things for CS students, geeks and developers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-10-31T13:46:16Z",
+            "owner": "open-minds",
+            "repo": "awesome-openminds-team",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ESI-Linux",
+          "description": "ESI Linux is a Linux distribution made for ESI-SBA students particularly, it provides all the necessary tools for their curriculum",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-12-18T22:02:04Z",
+            "owner": "youben11",
+            "repo": "ESI_Linux",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini Express boilerplate",
+          "description": "A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2019-07-15T13:20:12Z",
+            "owner": "Fcmam5",
+            "repo": "mini-express-boilerplate",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tamazight Keyboard Layout",
+          "description": "Linux Tamazight keyboard layout (both Tifinagh and Latin)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2016-07-19T08:29:52Z",
+            "owner": "nlouahedj",
+            "repo": "tamazight-layout",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgreedOnThatData",
+          "description": "Ethereum Smart Contract that validates a document approved by identified parties built with Solidity",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-06-11T07:53:24Z",
+            "owner": "ZakCheb",
+            "repo": "AgreedOnThatData",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deniable Encrypted Keys Database",
+          "description": "Deniable Encrypted Keys Database (DEKDB) format specifications",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2016-12-19T14:42:38Z",
+            "owner": "abderraouf-adjal",
+            "repo": "dekdb-format-specifications",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python Code Tutorials",
+          "description": "Python programming tutorials and recipes for beginner and intermediate Python programmers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-13T07:35:53Z",
+            "owner": "x4nth055",
+            "repo": "pythoncode-tutorials",
+            "stars": 3003
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontend-Learning-Journey",
+          "description": "Tutorials, definitions, frameworks and sample projects if you want to learn front-end web development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-05-14T15:41:14Z",
+            "owner": "Amine-Smahi",
+            "repo": "Frontend-Learning-Journey",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Computer vision tutorial (OpenCV & python)",
+          "description": "Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-14T06:35:20Z",
+            "owner": "amineHorseman",
+            "repo": "opencv-eldjmaa-live-coding",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Tutorials and Learning Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:51:12.377Z",
+    "original_repository": "algeriatech/awesome-algeria",
+    "original_repository_sha": "5017c0421e9958641eca66aa2e9ecf917d04c656",
+    "enhanced_repository": "enhansome/enhansome-algeria",
+    "enhanced_repository_description": null,
+    "title": "Awesome Algeria with stars"
+  }
+}
