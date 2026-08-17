@@ -456,7 +456,7 @@
                 "last_commit": "2026-08-04T09:02:35Z",
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
-                "stars": 1033
+                "stars": 1034
               }
             },
             {
@@ -735,7 +735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:48:26.652Z",
+    "last_updated": "2026-08-17T05:54:38.356Z",
     "original_repository": "algeriatech/awesome-algeria",
     "original_repository_sha": "5017c0421e9958641eca66aa2e9ecf917d04c656",
     "enhanced_repository": "enhansome/enhansome-algeria",
