@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20812766,
             "language": "JavaScript",
             "last_commit": "2024-01-20T16:43:29Z",
             "owner": "mohsenuss91",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30039109,
             "language": null,
             "last_commit": "2023-08-30T15:57:13Z",
             "owner": "mohsenuss91",
@@ -35,7 +37,7 @@
       "title": "Open Data"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4617289,
             "language": "Python",
             "last_commit": "2026-06-14T00:57:27Z",
             "owner": "Alfanous-team",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136745496,
             "language": "Java",
             "last_commit": "2023-09-18T14:03:02Z",
             "owner": "HouariZegai",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 248603063,
             "language": "Vue",
             "last_commit": "2020-05-27T23:51:22Z",
             "owner": "SakhriHoussem",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 123389870,
             "language": "CSS",
             "last_commit": "2018-11-23T19:10:53Z",
             "owner": "youben11",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80212360,
             "language": "C",
             "last_commit": "2017-02-16T10:49:07Z",
             "owner": "OpenDZ",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80156277,
             "language": "Java",
             "last_commit": "2017-03-20T23:06:54Z",
             "owner": "youben11",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 235617476,
             "language": "Java",
             "last_commit": "2020-01-23T12:37:51Z",
             "owner": "seif1000",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75937102,
             "language": "Java",
             "last_commit": "2017-02-12T19:04:11Z",
             "owner": "Taybou",
@@ -156,24 +166,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350458396,
             "language": "Kotlin",
             "last_commit": "2021-03-22T19:16:35Z",
             "owner": "FdevTech",
             "repo": "Selma",
             "stars": 0
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Salat Time",
-          "description": "A simple python Web App that returns the five Islamic Prayer Times.",
-          "children": []
         }
       ],
       "title": "Applications"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "group",
@@ -187,6 +192,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 130581685,
                 "language": "CSS",
                 "last_commit": "2018-11-05T20:41:57Z",
                 "owner": "amine1107",
@@ -201,6 +207,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 115552978,
                 "language": "SCSS",
                 "last_commit": "2023-05-20T20:43:23Z",
                 "owner": "amine1107",
@@ -222,6 +229,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 129085975,
                 "language": "JavaScript",
                 "last_commit": "2023-03-03T12:58:42Z",
                 "owner": "Fcmam5",
@@ -236,6 +244,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 78210141,
                 "language": "JavaScript",
                 "last_commit": "2017-01-09T15:16:12Z",
                 "owner": "youknowriad",
@@ -250,6 +259,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 30210664,
                 "language": "JavaScript",
                 "last_commit": "2019-10-11T14:50:14Z",
                 "owner": "acigna",
@@ -264,18 +274,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 50444009,
                 "language": "JavaScript",
                 "last_commit": "2020-09-29T09:27:37Z",
                 "owner": "youknowriad",
                 "repo": "rungen",
                 "stars": 22
               }
-            },
-            {
-              "node_type": "item",
-              "title": "Arli",
-              "description": "JavaScript tools for an Arabic development",
-              "children": []
             }
           ]
         },
@@ -291,6 +296,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 11965239,
                 "language": "PHP",
                 "last_commit": "2016-02-22T22:32:58Z",
                 "owner": "ghousseyn",
@@ -305,6 +311,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 134275788,
                 "language": "PHP",
                 "last_commit": "2018-05-21T13:56:43Z",
                 "owner": "OGFris",
@@ -326,6 +333,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 34067462,
                 "language": "Go",
                 "last_commit": "2023-05-28T08:50:11Z",
                 "owner": "01walid",
@@ -340,6 +348,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 141929983,
                 "language": "Go",
                 "last_commit": "2019-01-14T16:50:38Z",
                 "owner": "OGFris",
@@ -354,6 +363,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 150172057,
                 "language": "Go",
                 "last_commit": "2018-11-25T18:04:46Z",
                 "owner": "OGFris",
@@ -368,6 +378,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 143336127,
                 "language": "Go",
                 "last_commit": "2018-11-13T21:00:44Z",
                 "owner": "OGFris",
@@ -389,6 +400,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 41375199,
                 "language": "C",
                 "last_commit": "2020-08-20T18:55:23Z",
                 "owner": "abderraouf-adjal",
@@ -403,6 +415,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 89795192,
                 "language": "C",
                 "last_commit": "2017-04-30T16:39:26Z",
                 "owner": "youben11",
@@ -417,6 +430,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 92591616,
                 "language": "C",
                 "last_commit": "2017-05-27T10:37:05Z",
                 "owner": "youben11",
@@ -438,6 +452,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 206784340,
                 "language": "Python",
                 "last_commit": "2025-06-04T08:21:31Z",
                 "owner": "SofianeHamlaoui",
@@ -452,6 +467,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 236181743,
                 "language": "C++",
                 "last_commit": "2026-08-04T09:02:35Z",
                 "owner": "OpenMined",
@@ -466,6 +482,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 183778563,
                 "language": "Python",
                 "last_commit": "2023-11-03T11:51:28Z",
                 "owner": "x4nth055",
@@ -480,6 +497,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 118813572,
                 "language": "Python",
                 "last_commit": "2023-06-10T03:10:17Z",
                 "owner": "amineHorseman",
@@ -494,6 +512,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 67780682,
                 "language": "Python",
                 "last_commit": "2018-09-13T22:52:26Z",
                 "owner": "amineHorseman",
@@ -508,6 +527,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 169982114,
                 "language": "Jupyter Notebook",
                 "last_commit": "2019-11-29T23:32:33Z",
                 "owner": "malware-revealer",
@@ -522,6 +542,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 77751252,
                 "language": "Python",
                 "last_commit": "2017-04-09T20:18:06Z",
                 "owner": "Fcmam5",
@@ -543,6 +564,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 59627293,
                 "language": "CMake",
                 "last_commit": "2019-10-09T09:28:01Z",
                 "owner": "amineHorseman",
@@ -557,6 +579,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 59720921,
                 "language": "Python",
                 "last_commit": "2018-09-30T20:34:19Z",
                 "owner": "amineHorseman",
@@ -578,6 +601,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 49428595,
                 "language": "Python",
                 "last_commit": "2026-02-16T11:33:42Z",
                 "owner": "assem-ch",
@@ -591,7 +615,7 @@
       "title": "Libraries and Frameworks"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -600,6 +624,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69763921,
             "language": null,
             "last_commit": "2021-10-31T13:46:16Z",
             "owner": "open-minds",
@@ -614,6 +639,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85882531,
             "language": "C",
             "last_commit": "2017-12-18T22:02:04Z",
             "owner": "youben11",
@@ -628,6 +654,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 99448758,
             "language": "JavaScript",
             "last_commit": "2019-07-15T13:20:12Z",
             "owner": "Fcmam5",
@@ -642,6 +669,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35732300,
             "language": null,
             "last_commit": "2016-07-19T08:29:52Z",
             "owner": "nlouahedj",
@@ -656,6 +684,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 111542466,
             "language": null,
             "last_commit": "2018-06-11T07:53:24Z",
             "owner": "ZakCheb",
@@ -670,6 +699,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 61667884,
             "language": null,
             "last_commit": "2016-12-19T14:42:38Z",
             "owner": "abderraouf-adjal",
@@ -681,7 +711,7 @@
       "title": "Other"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -690,6 +720,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199449624,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-13T07:35:53Z",
             "owner": "x4nth055",
@@ -704,6 +735,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82396786,
             "language": "CSS",
             "last_commit": "2020-05-14T15:41:14Z",
             "owner": "Amine-Smahi",
@@ -718,6 +750,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206651715,
             "language": "Python",
             "last_commit": "2019-09-14T06:35:20Z",
             "owner": "amineHorseman",
@@ -727,16 +760,12 @@
         }
       ],
       "title": "Tutorials and Learning Resources"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:50:49.694Z",
+    "last_updated": "2026-08-19T12:16:21.804Z",
     "original_repository": "algeriatech/awesome-algeria",
+    "original_repository_id": 76734393,
     "original_repository_sha": "5017c0421e9958641eca66aa2e9ecf917d04c656",
     "enhanced_repository": "enhansome/enhansome-algeria",
     "enhanced_repository_description": null,
