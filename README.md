@@ -59,7 +59,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,033 | 🐛 138 | 🌐 C++ | 📅 2026-08-22 - A library for doing homomorphic encryption operations on tensors
   * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 688 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 517 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
-  * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 175 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
+  * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
   * [Malware Revealer](https://github.com/malware-revealer/malware-revealer) ⭐ 53 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-11-29 - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
   * [Tchamba.random](https://github.com/Fcmam5/tchamba) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2017-04-09 package of functions generating random data (colors, names, jokes, letters..)
 * ROS
