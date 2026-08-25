@@ -46,7 +46,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [Phyber](https://github.com/ghousseyn/phiber) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2016-02-22 - Build light-weight lightning-fast PhP applications with Phiber
   * [FrisAI](https://github.com/OGFris/FrisAI) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2018-05-21 - FrisAI is an A.I. based chat-bot made with PHP.
 * Go
-  * [Go Arabic](https://github.com/01walid/goarabic) ⭐ 117 | 🐛 8 | 🌐 Go | 📅 2023-05-28 - A Go Lang package for dealing with Arabic text
+  * [Go Arabic](https://github.com/01walid/goarabic) ⭐ 116 | 🐛 8 | 🌐 Go | 📅 2023-05-28 - A Go Lang package for dealing with Arabic text
   * [GoStats](https://github.com/OGFris/GoStats) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2019-01-14 - GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions.
   * [ATCache](https://github.com/AnimeTwist/ATCache) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2018-11-25 - ATCache is a caching server (also called a CDN) written in go, for AnimeTwist used to store video files.
   * [GoFiles](https://github.com/OGFris/GoFiles) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2018-11-13 - GoFiles lets you compile your static assets within your binary and access them within the library provided.
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
