@@ -16,9 +16,9 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Applications
 
-* [Alfanous](https://github.com/Alfanous-team/alfanous) ⭐ 287 | 🐛 23 | 🌐 Python | 📅 2026-06-14 - Alfanous is an Arabic search engine API provides a simple and advanced search in Quran
+* [Alfanous](https://github.com/Alfanous-team/alfanous) ⭐ 288 | 🐛 23 | 🌐 Python | 📅 2026-06-14 - Alfanous is an Arabic search engine API provides a simple and advanced search in Quran
 * [LSQLApp](https://github.com/houarizegai/lsqlapp) ⭐ 109 | 🐛 0 | 🌐 Java | 📅 2023-09-18 - A desktop application that helps teachers in practical work (TP) to evaluate students. It also helps students to learn SQL.
-* [Vue Resume](https://github.com/SakhriHoussem/vue-resume) ⭐ 82 | 🐛 2 | 🌐 Vue | 📅 2020-05-27 - A live resume builder using VueJs
+* [Vue Resume](https://github.com/SakhriHoussem/vue-resume) ⭐ 81 | 🐛 2 | 🌐 Vue | 📅 2020-05-27 - A live resume builder using VueJs
 * [OpenClass](https://github.com/youben11/open-class/) ⭐ 8 | 🐛 3 | 🌐 CSS | 📅 2018-11-23 - OpenClass is a web app that promotes information sharing through organized workshops.
 * [Timgad](https://github.com/OpenDZ/timgad) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2017-02-16 - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.
 * [Cryptili](https://github.com/youben11/cryptili) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2017-03-20 - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
@@ -55,7 +55,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [internet-socket](https://github.com/youben11/internet-socket) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2017-04-30 - A library to facilitate the use of internet socket (socket of family PF\_INET) in C programming
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
-  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,550 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
+  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,549 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
   * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,033 | 🐛 138 | 🌐 C++ | 📅 2026-08-22 - A library for doing homomorphic encryption operations on tensors
   * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 688 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 517 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
@@ -79,7 +79,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Tutorials and Learning Resources
 
-* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,001 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-07-13 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
+* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,000 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-07-13 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
 * [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) ⭐ 33 | 🐛 1 | 🌐 CSS | 📅 2020-05-14 - Tutorials, definitions, frameworks and sample projects if you want to learn front-end web development
 * [Computer vision tutorial (OpenCV & python)](https://github.com/amineHorseman/opencv-eldjmaa-live-coding) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2019-09-14 - Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)
 
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
