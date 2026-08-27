@@ -487,7 +487,7 @@
                 "last_commit": "2023-11-03T11:51:28Z",
                 "owner": "x4nth055",
                 "repo": "emotion-recognition-using-speech",
-                "stars": 688
+                "stars": 689
               }
             },
             {
@@ -763,9 +763,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:54:00.696Z",
-    "original_repository": "algeriatech/awesome-algeria",
-    "original_repository_id": 76734393,
+    "last_updated": "2026-08-27T11:19:52.803Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 76734393,
+      "language": null,
+      "last_commit": "2021-01-12T19:00:11Z",
+      "owner": "algeriatech",
+      "repo": "awesome-algeria",
+      "stars": 127
+    },
     "original_repository_sha": "5017c0421e9958641eca66aa2e9ecf917d04c656",
     "enhanced_repository": "enhansome/enhansome-algeria",
     "enhanced_repository_description": null,

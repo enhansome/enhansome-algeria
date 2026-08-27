@@ -29,7 +29,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Games
 
-* [Catcheep](https://github.com/oussamabonnor1/Catcheep) ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2020-08-25 - Catcheep is a free casual 2D tap to play mobile game suitable for all ages. Currently available on Play store.
+* [Catcheep](https://github.com/oussamabonnor1/Catcheep) ⭐ 79 | 🐛 0 | 🌐 C# | 📅 2020-08-25 - Catcheep is a free casual 2D tap to play mobile game suitable for all ages. Currently available on Play store.
 
 ## Libraries and Frameworks
 
@@ -57,7 +57,7 @@ A curated list of awesome things and projects built by Algerian developers.
 * Python
   * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,549 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
   * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,033 | 🐛 138 | 🌐 C++ | 📅 2026-08-22 - A library for doing homomorphic encryption operations on tensors
-  * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 688 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
+  * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 689 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 517 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
   * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
   * [Malware Revealer](https://github.com/malware-revealer/malware-revealer) ⭐ 53 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-11-29 - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
