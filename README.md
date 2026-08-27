@@ -79,7 +79,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Tutorials and Learning Resources
 
-* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,000 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-07-13 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
+* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,001 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-07-13 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
 * [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) ⭐ 33 | 🐛 1 | 🌐 CSS | 📅 2020-05-14 - Tutorials, definitions, frameworks and sample projects if you want to learn front-end web development
 * [Computer vision tutorial (OpenCV & python)](https://github.com/amineHorseman/opencv-eldjmaa-live-coding) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2019-09-14 - Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)
 
