@@ -56,7 +56,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
   * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,549 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
-  * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,033 | 🐛 138 | 🌐 C++ | 📅 2026-08-22 - A library for doing homomorphic encryption operations on tensors
+  * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,032 | 🐛 138 | 🌐 C++ | 📅 2026-08-22 - A library for doing homomorphic encryption operations on tensors
   * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 689 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 517 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
   * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

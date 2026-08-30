@@ -803,7 +803,7 @@
                 "open_issues": 138,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
-                "stars": 1033,
+                "stars": 1032,
                 "topics": [
                   "cpp",
                   "cryptography",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:41:34.979Z",
+    "last_updated": "2026-08-30T10:31:11.577Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
