@@ -66,7 +66,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [Pionner bringup](https://github.com/amineHorseman/pioneer_bringup) ⭐ 6 | 🐛 0 | 🌐 CMake | 📅 2019-10-09 A ROS package providing ROS launch scripts for starting the Adept MobileRobots Pioneer and Pioneer-compatible robots
   * [Pionner teleop](https://github.com/amineHorseman/pioneer_teleop) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2018-09-30 A ROS package providing scripts for teleoperation (using keyboard, web sockets, command line or xbox360 controller) to all Adept MobileRobots Pioneer and Pioneer-compatible robots
 * Other languages
-  * [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) ⭐ 151 | 🐛 16 | 🌐 Python | 📅 2026-02-16 - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
+  * [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) ⭐ 152 | 🐛 16 | 🌐 Python | 📅 2026-02-16 - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
 ## Other
 
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
