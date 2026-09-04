@@ -56,7 +56,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
   * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,549 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
-  * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,032 | 🐛 138 | 🌐 C++ | 📅 2026-08-22 - A library for doing homomorphic encryption operations on tensors
+  * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,033 | 🐛 138 | 🌐 C++ | 📅 2026-08-22 - A library for doing homomorphic encryption operations on tensors
   * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 689 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 517 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
   * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
@@ -66,7 +66,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [Pionner bringup](https://github.com/amineHorseman/pioneer_bringup) ⭐ 6 | 🐛 0 | 🌐 CMake | 📅 2019-10-09 A ROS package providing ROS launch scripts for starting the Adept MobileRobots Pioneer and Pioneer-compatible robots
   * [Pionner teleop](https://github.com/amineHorseman/pioneer_teleop) ⭐ 4 | 🐛 2 | 🌐 Python | 📅 2018-09-30 A ROS package providing scripts for teleoperation (using keyboard, web sockets, command line or xbox360 controller) to all Adept MobileRobots Pioneer and Pioneer-compatible robots
 * Other languages
-  * [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) ⭐ 152 | 🐛 16 | 🌐 Python | 📅 2026-02-16 - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
+  * [Arabic Stremmer](https://github.com/assem-ch/arabicstemmer) ⭐ 150 | 🐛 16 | 🌐 Python | 📅 2026-02-16 - Arabic Light Stemmer is a snowball-based stemming algorithm for Arabic
 
 ## Other
 
@@ -79,7 +79,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Tutorials and Learning Resources
 
-* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,001 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-07-13 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
+* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,003 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-07-13 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
 * [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) ⭐ 33 | 🐛 1 | 🌐 CSS | 📅 2020-05-14 - Tutorials, definitions, frameworks and sample projects if you want to learn front-end web development
 * [Computer vision tutorial (OpenCV & python)](https://github.com/amineHorseman/opencv-eldjmaa-live-coding) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2019-09-14 - Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)
 
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
