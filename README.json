@@ -67,7 +67,7 @@
             "open_issues": 23,
             "owner": "Alfanous-team",
             "repo": "alfanous",
-            "stars": 288,
+            "stars": 289,
             "topics": [
               "api",
               "arabic",
@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1549,
+                "stars": 1550,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -799,11 +799,11 @@
                 "id": 236181743,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T14:54:12Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-08T17:33:16Z",
+                "open_issues": 134,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
-                "stars": 1036,
+                "stars": 1037,
                 "topics": [
                   "cpp",
                   "cryptography",
@@ -1078,7 +1078,7 @@
                 "open_issues": 16,
                 "owner": "assem-ch",
                 "repo": "arabicstemmer",
-                "stars": 150,
+                "stars": 151,
                 "topics": [
                   "arabic",
                   "language",
@@ -1271,7 +1271,7 @@
             "open_issues": 31,
             "owner": "x4nth055",
             "repo": "pythoncode-tutorials",
-            "stars": 3003,
+            "stars": 3004,
             "topics": [
               "computer-vision",
               "ethical-hacking",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T09:49:36.241Z",
+    "last_updated": "2026-09-09T09:52:41.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
