@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1550,
+                "stars": 1552,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -875,7 +875,7 @@
                 "open_issues": 13,
                 "owner": "amineHorseman",
                 "repo": "facial-expression-recognition-using-cnn",
-                "stars": 517,
+                "stars": 516,
                 "topics": [
                   "cnn",
                   "cnn-classification",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:50:15.634Z",
+    "last_updated": "2026-09-11T09:49:53.681Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
