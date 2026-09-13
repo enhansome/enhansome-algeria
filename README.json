@@ -799,8 +799,8 @@
                 "id": 236181743,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T08:21:27Z",
-                "open_issues": 135,
+                "last_commit": "2026-09-12T11:30:30Z",
+                "open_issues": 131,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
                 "stars": 1037,
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:26:37.743Z",
+    "last_updated": "2026-09-13T10:22:20.470Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
