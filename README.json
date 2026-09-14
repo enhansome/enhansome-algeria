@@ -179,33 +179,6 @@
         },
         {
           "node_type": "item",
-          "title": "Timgad",
-          "description": "Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Timgad is a Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.",
-            "homepage": null,
-            "id": 80212360,
-            "language": "C",
-            "license": "GPL-2.0",
-            "last_commit": "2017-02-16T10:49:07Z",
-            "open_issues": 0,
-            "owner": "OpenDZ",
-            "repo": "timgad",
-            "stars": 3,
-            "topics": [
-              "kernel",
-              "linux",
-              "sandbox",
-              "security",
-              "security-hardening"
-            ]
-          },
-          "first_seen": "2026-08-28T17:29:15.430Z"
-        },
-        {
-          "node_type": "item",
           "title": "Cryptili",
           "description": "Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.",
           "children": [],
@@ -224,6 +197,33 @@
             "topics": [
               "android",
               "crypto"
+            ]
+          },
+          "first_seen": "2026-08-28T17:29:15.430Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Timgad",
+          "description": "Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Timgad is a Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.",
+            "homepage": null,
+            "id": 80212360,
+            "language": "C",
+            "license": "GPL-2.0",
+            "last_commit": "2017-02-16T10:49:07Z",
+            "open_issues": 0,
+            "owner": "OpenDZ",
+            "repo": "timgad",
+            "stars": 2,
+            "topics": [
+              "kernel",
+              "linux",
+              "sandbox",
+              "security",
+              "security-hardening"
             ]
           },
           "first_seen": "2026-08-28T17:29:15.430Z"
@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1553,
+                "stars": 1552,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -943,7 +943,7 @@
                 "open_issues": 0,
                 "owner": "malware-revealer",
                 "repo": "malware-revealer",
-                "stars": 53,
+                "stars": 52,
                 "topics": [
                   "antimalware",
                   "deeplearning",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:22:20.470Z",
+    "last_updated": "2026-09-14T10:46:41.216Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",

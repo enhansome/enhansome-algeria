@@ -20,8 +20,8 @@ A curated list of awesome things and projects built by Algerian developers.
 * [LSQLApp](https://github.com/houarizegai/lsqlapp) ⭐ 109 | 🐛 0 | 🌐 Java | 📅 2023-09-18 - A desktop application that helps teachers in practical work (TP) to evaluate students. It also helps students to learn SQL.
 * [Vue Resume](https://github.com/SakhriHoussem/vue-resume) ⭐ 81 | 🐛 2 | 🌐 Vue | 📅 2020-05-27 - A live resume builder using VueJs
 * [OpenClass](https://github.com/youben11/open-class/) ⭐ 8 | 🐛 3 | 🌐 CSS | 📅 2018-11-23 - OpenClass is a web app that promotes information sharing through organized workshops.
-* [Timgad](https://github.com/OpenDZ/timgad) ⭐ 3 | 🐛 0 | 🌐 C | 📅 2017-02-16 - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.
 * [Cryptili](https://github.com/youben11/cryptili) ⭐ 2 | 🐛 1 | 🌐 Java | 📅 2017-03-20 - Cryptili is a lightweight Android app that allows you to encrypt/decrypt messages and send them through a different app.
+* [Timgad](https://github.com/OpenDZ/timgad) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2017-02-16 - Timgad is a kernel Linux Security Module that collects per process and system-wide security protections that are not handled by the core kernel itself.
 * [salati](https://github.com/seif1000/salati) ⭐ 1 | 🐛 0 | 🌐 Java | 📅 2020-01-23 an android app that helps muslims perform their prayers in time by reminding them every day when the time comes with an adhan alarm.
 * [Ji3an](https://github.com/Taybou/JiaanApp) ⭐ 0 | 🐛 0 | 🌐 Java | 📅 2017-02-12 - Ji3an is a mobile application for food recipes and cart shopping
 * [selma](https://github.com/FdevTech/Selma) ⭐ 0 | 🐛 0 | 🌐 Kotlin | 📅 2021-03-22 - A virtual assistant backed by augmented reality capabilities, it allows you to control different appliances in your home.
@@ -55,12 +55,12 @@ A curated list of awesome things and projects built by Algerian developers.
   * [internet-socket](https://github.com/youben11/internet-socket) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2017-04-30 - A library to facilitate the use of internet socket (socket of family PF\_INET) in C programming
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
-  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,553 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
+  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,552 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
   * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,037 | 🐛 131 | 🌐 C++ | 📅 2026-09-12 - A library for doing homomorphic encryption operations on tensors
   * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 689 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 516 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
   * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
-  * [Malware Revealer](https://github.com/malware-revealer/malware-revealer) ⭐ 53 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-11-29 - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
+  * [Malware Revealer](https://github.com/malware-revealer/malware-revealer) ⭐ 52 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-11-29 - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
   * [Tchamba.random](https://github.com/Fcmam5/tchamba) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2017-04-09 package of functions generating random data (colors, names, jokes, letters..)
 * ROS
   * [Pionner bringup](https://github.com/amineHorseman/pioneer_bringup) ⭐ 6 | 🐛 0 | 🌐 CMake | 📅 2019-10-09 A ROS package providing ROS launch scripts for starting the Adept MobileRobots Pioneer and Pioneer-compatible robots
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
