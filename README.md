@@ -55,9 +55,9 @@ A curated list of awesome things and projects built by Algerian developers.
   * [internet-socket](https://github.com/youben11/internet-socket) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2017-04-30 - A library to facilitate the use of internet socket (socket of family PF\_INET) in C programming
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
-  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,552 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
+  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,553 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
   * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,037 | 🐛 131 | 🌐 C++ | 📅 2026-09-12 - A library for doing homomorphic encryption operations on tensors
-  * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 689 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
+  * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 688 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 516 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
   * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
   * [Malware Revealer](https://github.com/malware-revealer/malware-revealer) ⭐ 52 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-11-29 - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
