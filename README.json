@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1553,
+                "stars": 1552,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -803,7 +803,7 @@
                 "open_issues": 131,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
-                "stars": 1038,
+                "stars": 1039,
                 "topics": [
                   "cpp",
                   "cryptography",
@@ -1271,7 +1271,7 @@
             "open_issues": 31,
             "owner": "x4nth055",
             "repo": "pythoncode-tutorials",
-            "stars": 3003,
+            "stars": 3002,
             "topics": [
               "computer-vision",
               "ethical-hacking",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T10:03:01.377Z",
+    "last_updated": "2026-09-17T10:06:00.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
