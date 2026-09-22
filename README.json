@@ -875,7 +875,7 @@
                 "open_issues": 13,
                 "owner": "amineHorseman",
                 "repo": "facial-expression-recognition-using-cnn",
-                "stars": 516,
+                "stars": 512,
                 "topics": [
                   "cnn",
                   "cnn-classification",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T10:49:54.281Z",
+    "last_updated": "2026-09-22T10:05:08.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
