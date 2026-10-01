@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1561,
+                "stars": 1560,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -1267,11 +1267,11 @@
             "id": 199449624,
             "language": "Jupyter Notebook",
             "license": "MIT",
-            "last_commit": "2026-07-13T07:35:53Z",
+            "last_commit": "2026-09-30T11:41:21Z",
             "open_issues": 31,
             "owner": "x4nth055",
             "repo": "pythoncode-tutorials",
-            "stars": 3002,
+            "stars": 3000,
             "topics": [
               "computer-vision",
               "ethical-hacking",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T11:13:27.720Z",
+    "last_updated": "2026-10-01T11:41:01.479Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
