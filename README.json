@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1561,
+                "stars": 1562,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:22:36.114Z",
+    "last_updated": "2026-10-06T10:21:48.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
