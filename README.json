@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1562,
+                "stars": 1563,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -1113,7 +1113,7 @@
             "open_issues": 11,
             "owner": "open-minds",
             "repo": "awesome-openminds-team",
-            "stars": 133,
+            "stars": 132,
             "topics": [
               "awesome-list",
               "collaboration",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T12:05:33.491Z",
+    "last_updated": "2026-10-07T11:51:03.780Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
