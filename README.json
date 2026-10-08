@@ -799,8 +799,8 @@
                 "id": 236181743,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-12T11:30:30Z",
-                "open_issues": 132,
+                "last_commit": "2026-10-07T15:38:07Z",
+                "open_issues": 133,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
                 "stars": 1040,
@@ -835,7 +835,7 @@
                 "open_issues": 16,
                 "owner": "x4nth055",
                 "repo": "emotion-recognition-using-speech",
-                "stars": 690,
+                "stars": 691,
                 "topics": [
                   "deep-learning",
                   "emotion-detection",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:51:03.780Z",
+    "last_updated": "2026-10-08T12:06:13.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
