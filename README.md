@@ -71,7 +71,7 @@ A curated list of awesome things and projects built by Algerian developers.
 ## Other
 
 * [awesome-open-minds](https://github.com/open-minds/awesome-openminds-team) ⭐ 132 | 🐛 11 | 📅 2021-10-31 awesome useful links, resources, and shiny things for CS students, geeks and developers
-* [ESI-Linux](https://github.com/youben11/ESI_Linux/) ⭐ 25 | 🐛 1 | 🌐 C | 📅 2017-12-18 - ESI Linux is a Linux distribution made for ESI-SBA students particularly, it provides all the necessary tools for their curriculum
+* [ESI-Linux](https://github.com/youben11/ESI_Linux/) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2017-12-18 - ESI Linux is a Linux distribution made for ESI-SBA students particularly, it provides all the necessary tools for their curriculum
 * [Mini Express boilerplate](https://github.com/Fcmam5/mini-express-boilerplate) ⚠️ Archived - A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured
 * [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) ⭐ 14 | 🐛 0 | 📅 2016-07-19 - Linux Tamazight keyboard layout (both Tifinagh and Latin)
 * [AgreedOnThatData](https://github.com/ZakiChebli/AgreedOnThatData) ⭐ 4 | 🐛 0 | 📅 2018-06-11 - Ethereum Smart Contract that validates a document approved by identified parties built with Solidity
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

@@ -1144,7 +1144,7 @@
             "open_issues": 1,
             "owner": "youben11",
             "repo": "ESI_Linux",
-            "stars": 25,
+            "stars": 24,
             "topics": [
               "archlinux",
               "esi-linux",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:06:13.768Z",
+    "last_updated": "2026-10-09T11:58:04.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
