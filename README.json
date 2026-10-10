@@ -541,7 +541,7 @@
                 "open_issues": 8,
                 "owner": "01walid",
                 "repo": "goarabic",
-                "stars": 116,
+                "stars": 114,
                 "topics": [
                   "arabic",
                   "arabic-language",
@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1563,
+                "stars": 1564,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -1271,7 +1271,7 @@
             "open_issues": 31,
             "owner": "x4nth055",
             "repo": "pythoncode-tutorials",
-            "stars": 3001,
+            "stars": 3000,
             "topics": [
               "computer-vision",
               "ethical-hacking",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:58:04.053Z",
+    "last_updated": "2026-10-10T11:14:32.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",

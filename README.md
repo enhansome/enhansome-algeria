@@ -46,7 +46,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [Phyber](https://github.com/ghousseyn/phiber) ⭐ 18 | 🐛 0 | 🌐 PHP | 📅 2016-02-22 - Build light-weight lightning-fast PhP applications with Phiber
   * [FrisAI](https://github.com/OGFris/FrisAI) ⭐ 7 | 🐛 0 | 🌐 PHP | 📅 2018-05-21 - FrisAI is an A.I. based chat-bot made with PHP.
 * Go
-  * [Go Arabic](https://github.com/01walid/goarabic) ⭐ 116 | 🐛 8 | 🌐 Go | 📅 2023-05-28 - A Go Lang package for dealing with Arabic text
+  * [Go Arabic](https://github.com/01walid/goarabic) ⭐ 114 | 🐛 8 | 🌐 Go | 📅 2023-05-28 - A Go Lang package for dealing with Arabic text
   * [GoStats](https://github.com/OGFris/GoStats) ⭐ 22 | 🐛 0 | 🌐 Go | 📅 2019-01-14 - GoStats is a go library for math statistics mostly used in ML domains, it covers most of the statistical measures functions.
   * [ATCache](https://github.com/AnimeTwist/ATCache) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2018-11-25 - ATCache is a caching server (also called a CDN) written in go, for AnimeTwist used to store video files.
   * [GoFiles](https://github.com/OGFris/GoFiles) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2018-11-13 - GoFiles lets you compile your static assets within your binary and access them within the library provided.
@@ -55,7 +55,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [internet-socket](https://github.com/youben11/internet-socket) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2017-04-30 - A library to facilitate the use of internet socket (socket of family PF\_INET) in C programming
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
-  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,563 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
+  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,564 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
   * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,040 | 🐛 133 | 🌐 C++ | 📅 2026-10-07 - A library for doing homomorphic encryption operations on tensors
   * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 691 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 512 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
@@ -79,7 +79,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Tutorials and Learning Resources
 
-* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,001 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-09-30 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
+* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,000 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-09-30 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
 * [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) ⭐ 33 | 🐛 1 | 🌐 CSS | 📅 2020-05-14 - Tutorials, definitions, frameworks and sample projects if you want to learn front-end web development
 * [Computer vision tutorial (OpenCV & python)](https://github.com/amineHorseman/opencv-eldjmaa-live-coding) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2019-09-14 - Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)
 
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
