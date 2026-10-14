@@ -67,7 +67,7 @@
             "open_issues": 23,
             "owner": "Alfanous-team",
             "repo": "alfanous",
-            "stars": 289,
+            "stars": 286,
             "topics": [
               "api",
               "arabic",
@@ -800,7 +800,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-07T15:38:07Z",
-                "open_issues": 133,
+                "open_issues": 135,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
                 "stars": 1040,
@@ -1271,7 +1271,7 @@
             "open_issues": 31,
             "owner": "x4nth055",
             "repo": "pythoncode-tutorials",
-            "stars": 2997,
+            "stars": 2999,
             "topics": [
               "computer-vision",
               "ethical-hacking",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:47:05.570Z",
+    "last_updated": "2026-10-14T10:19:47.025Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
