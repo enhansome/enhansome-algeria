@@ -803,7 +803,7 @@
                 "open_issues": 135,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
-                "stars": 1040,
+                "stars": 1041,
                 "topics": [
                   "cpp",
                   "cryptography",
@@ -1271,7 +1271,7 @@
             "open_issues": 31,
             "owner": "x4nth055",
             "repo": "pythoncode-tutorials",
-            "stars": 3000,
+            "stars": 2999,
             "topics": [
               "computer-vision",
               "ethical-hacking",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T10:17:54.592Z",
+    "last_updated": "2026-10-22T10:18:45.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
@@ -1382,7 +1382,7 @@
       "open_issues": 3,
       "owner": "algeriatech",
       "repo": "awesome-algeria",
-      "stars": 128,
+      "stars": 129,
       "topics": [
         "algeria",
         "algerian-developpers",
