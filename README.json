@@ -835,7 +835,7 @@
                 "open_issues": 16,
                 "owner": "x4nth055",
                 "repo": "emotion-recognition-using-speech",
-                "stars": 690,
+                "stars": 689,
                 "topics": [
                   "deep-learning",
                   "emotion-detection",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T09:37:07.791Z",
+    "last_updated": "2026-10-25T09:54:25.007Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
