@@ -67,7 +67,7 @@
             "open_issues": 24,
             "owner": "Alfanous-team",
             "repo": "alfanous",
-            "stars": 286,
+            "stars": 285,
             "topics": [
               "api",
               "arabic",
@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1564,
+                "stars": 1563,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -803,7 +803,7 @@
                 "open_issues": 137,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
-                "stars": 1040,
+                "stars": 1041,
                 "topics": [
                   "cpp",
                   "cryptography",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:25:31.606Z",
+    "last_updated": "2026-10-29T11:35:57.211Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
