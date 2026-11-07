@@ -56,7 +56,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
   * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,568 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
-  * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,040 | 🐛 137 | 🌐 C++ | 📅 2026-10-23 - A library for doing homomorphic encryption operations on tensors
+  * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,041 | 🐛 137 | 🌐 C++ | 📅 2026-10-23 - A library for doing homomorphic encryption operations on tensors
   * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 686 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 513 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
   * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
@@ -70,7 +70,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Other
 
-* [awesome-open-minds](https://github.com/open-minds/awesome-openminds-team) ⭐ 132 | 🐛 11 | 📅 2021-10-31 awesome useful links, resources, and shiny things for CS students, geeks and developers
+* [awesome-open-minds](https://github.com/open-minds/awesome-openminds-team) ⭐ 133 | 🐛 11 | 📅 2021-10-31 awesome useful links, resources, and shiny things for CS students, geeks and developers
 * [ESI-Linux](https://github.com/youben11/ESI_Linux/) ⭐ 24 | 🐛 1 | 🌐 C | 📅 2017-12-18 - ESI Linux is a Linux distribution made for ESI-SBA students particularly, it provides all the necessary tools for their curriculum
 * [Mini Express boilerplate](https://github.com/Fcmam5/mini-express-boilerplate) ⚠️ Archived - A minimal Express boilerplate with passport user authentication, mongoose and some security setup configured
 * [Tamazight Keyboard Layout](https://github.com/noureddineme/tamazight-layout) ⭐ 14 | 🐛 0 | 📅 2016-07-19 - Linux Tamazight keyboard layout (both Tifinagh and Latin)
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
