@@ -11,7 +11,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Open Data
 
-* [Algerian Administrative Division](https://github.com/mohsenuss91/AlgerianAdministrativeDivision) ⭐ 71 | 🐛 10 | 🌐 JavaScript | 📅 2024-01-20 - Wilayas - Daïras - baladiyahs
+* [Algerian Administrative Division](https://github.com/mohsenuss91/AlgerianAdministrativeDivision) ⭐ 72 | 🐛 10 | 🌐 JavaScript | 📅 2024-01-20 - Wilayas - Daïras - baladiyahs
 * [Algerial Logos](https://github.com/mohsenuss91/AlgerianLogos) ⭐ 6 | 🐛 0 | 📅 2023-08-30 - Some Algerian official vectorized (.SVG) Logos
 
 ## Applications
@@ -56,7 +56,7 @@ A curated list of awesome things and projects built by Algerian developers.
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
   * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,568 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
-  * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,041 | 🐛 137 | 🌐 C++ | 📅 2026-10-23 - A library for doing homomorphic encryption operations on tensors
+  * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,042 | 🐛 137 | 🌐 C++ | 📅 2026-10-23 - A library for doing homomorphic encryption operations on tensors
   * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 686 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
   * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 514 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
   * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
