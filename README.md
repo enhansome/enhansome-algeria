@@ -55,10 +55,10 @@ A curated list of awesome things and projects built by Algerian developers.
   * [internet-socket](https://github.com/youben11/internet-socket) ⭐ 1 | 🐛 0 | 🌐 C | 📅 2017-04-30 - A library to facilitate the use of internet socket (socket of family PF\_INET) in C programming
   * [simple-parted](https://github.com/youben11/simple-parted) ⭐ 0 | 🐛 0 | 🌐 C | 📅 2017-05-27 - A library to facilitate the use of libparted in C programming, It's used to detect disks and partitions
 * Python
-  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,568 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
+  * [Lockdoor Framework ](https://github.com/SofianeHamlaoui/Lockdoor-Framework) ⭐ 1,569 | 🐛 1 | 🌐 Python | 📅 2025-06-04 -  A Penetration Testing framework with Cyber Security Resources
   * [TenSEAL](https://github.com/OpenMined/TenSEAL) ⭐ 1,042 | 🐛 137 | 🌐 C++ | 📅 2026-10-23 - A library for doing homomorphic encryption operations on tensors
-  * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 686 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
-  * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 514 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
+  * [Emotion Recognition using Speech](https://github.com/x4nth055/emotion-recognition-using-speech) ⭐ 687 | 🐛 16 | 🌐 Python | 📅 2023-11-03 - Building and training Speech Emotion Recognizer that predicts human emotions using Sci-kit Learn and Keras
+  * [Facial-expression-recognition-using-cnn](https://github.com/amineHorseman/facial-expression-recognition-using-cnn) ⭐ 515 | 🐛 13 | 🌐 Python | 📅 2023-06-10 - Deep facial expressions recognition using Opencv and Tensorflow
   * [Facial-expression-recognition-svm](https://github.com/amineHorseman/facial-expression-recognition-svm) ⭐ 176 | 🐛 6 | 🌐 Python | 📅 2018-09-13 - Training SVM classifier to recognize facial expressions (emotions)
   * [Malware Revealer](https://github.com/malware-revealer/malware-revealer) ⭐ 52 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2019-11-29 - A malware classification framework, designed primarily for malware detection, it contains a modular toolset for feature extraction, as well as pre-trained models and a ready to use web API for making predictions.
   * [Tchamba.random](https://github.com/Fcmam5/tchamba) ⭐ 11 | 🐛 0 | 🌐 Python | 📅 2017-04-09 package of functions generating random data (colors, names, jokes, letters..)
@@ -79,7 +79,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Tutorials and Learning Resources
 
-* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,002 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-09-30 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
+* [Python Code Tutorials](https://github.com/x4nth055/pythoncode-tutorials) ⭐ 3,003 | 🐛 31 | 🌐 Jupyter Notebook | 📅 2026-09-30 - Python programming tutorials and recipes for beginner and intermediate Python programmers.
 * [Frontend-Learning-Journey](https://github.com/Amine-Smahi/Frontend-Learning-Journey) ⭐ 33 | 🐛 1 | 🌐 CSS | 📅 2020-05-14 - Tutorials, definitions, frameworks and sample projects if you want to learn front-end web development
 * [Computer vision tutorial (OpenCV & python)](https://github.com/amineHorseman/opencv-eldjmaa-live-coding) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2019-09-14 - Live coding session for learning computer vision, from capturing images to detecting faces (link to videos + code)
 
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
