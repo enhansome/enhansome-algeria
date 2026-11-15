@@ -64,7 +64,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-06-14T00:57:27Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "Alfanous-team",
             "repo": "alfanous",
             "stars": 286,
@@ -349,7 +349,7 @@
                 "open_issues": 0,
                 "owner": "amine1107",
                 "repo": "hexa",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "animation",
                   "css-animations",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:17:33.732Z",
+    "last_updated": "2026-11-15T12:50:04.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",

@@ -16,7 +16,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 ## Applications
 
-* [Alfanous](https://github.com/Alfanous-team/alfanous) ⭐ 286 | 🐛 24 | 🌐 Python | 📅 2026-06-14 - Alfanous is an Arabic search engine API provides a simple and advanced search in Quran
+* [Alfanous](https://github.com/Alfanous-team/alfanous) ⭐ 286 | 🐛 25 | 🌐 Python | 📅 2026-06-14 - Alfanous is an Arabic search engine API provides a simple and advanced search in Quran
 * [LSQLApp](https://github.com/houarizegai/lsqlapp) ⭐ 109 | 🐛 0 | 🌐 Java | 📅 2023-09-18 - A desktop application that helps teachers in practical work (TP) to evaluate students. It also helps students to learn SQL.
 * [Vue Resume](https://github.com/SakhriHoussem/vue-resume) ⭐ 81 | 🐛 2 | 🌐 Vue | 📅 2020-05-27 - A live resume builder using VueJs
 * [OpenClass](https://github.com/youben11/open-class/) ⭐ 8 | 🐛 3 | 🌐 CSS | 📅 2018-11-23 - OpenClass is a web app that promotes information sharing through organized workshops.
@@ -35,7 +35,7 @@ A curated list of awesome things and projects built by Algerian developers.
 
 * CSS
   * [Lighter](https://github.com/amine1107/lighter) ⭐ 44 | 🐛 2 | 🌐 CSS | 📅 2018-11-05 Lighter is a flexible CSS micro-framework based on the visual aspect, the framework offers you a clean and easy work.
-  * [Hexa](https://github.com/amine1107/Hexa) ⭐ 36 | 🐛 0 | 🌐 SCSS | 📅 2023-05-20 A simple and lightweight CSS animation library
+  * [Hexa](https://github.com/amine1107/Hexa) ⭐ 37 | 🐛 0 | 🌐 SCSS | 📅 2023-05-20 A simple and lightweight CSS animation library
 * JavaScript
   * [Nightly.js](https://github.com/Fcmam5/nightly.js) ⭐ 159 | 🐛 8 | 🌐 JavaScript | 📅 2023-03-03 - A zero dependency JavaScript library for enabling the Dark mode in your UI
   * [react-graphql-redux](https://github.com/youknowriad/react-graphql-redux) ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-09 - use GraphQL to query your Redux store
@@ -106,4 +106,4 @@ These rules could be made stricter over time.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
