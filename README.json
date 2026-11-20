@@ -761,7 +761,7 @@
                 "open_issues": 1,
                 "owner": "SofianeHamlaoui",
                 "repo": "Lockdoor-Framework",
-                "stars": 1568,
+                "stars": 1567,
                 "topics": [
                   "blackarch-packages",
                   "blueteaming",
@@ -803,7 +803,7 @@
                 "open_issues": 137,
                 "owner": "OpenMined",
                 "repo": "TenSEAL",
-                "stars": 1043,
+                "stars": 1042,
                 "topics": [
                   "cpp",
                   "cryptography",
@@ -835,7 +835,7 @@
                 "open_issues": 16,
                 "owner": "x4nth055",
                 "repo": "emotion-recognition-using-speech",
-                "stars": 687,
+                "stars": 686,
                 "topics": [
                   "deep-learning",
                   "emotion-detection",
@@ -875,7 +875,7 @@
                 "open_issues": 13,
                 "owner": "amineHorseman",
                 "repo": "facial-expression-recognition-using-cnn",
-                "stars": 515,
+                "stars": 514,
                 "topics": [
                   "cnn",
                   "cnn-classification",
@@ -911,7 +911,7 @@
                 "open_issues": 6,
                 "owner": "amineHorseman",
                 "repo": "facial-expression-recognition-svm",
-                "stars": 176,
+                "stars": 177,
                 "topics": [
                   "facial-expression-recognition",
                   "fer2013",
@@ -1271,7 +1271,7 @@
             "open_issues": 31,
             "owner": "x4nth055",
             "repo": "pythoncode-tutorials",
-            "stars": 3004,
+            "stars": 3003,
             "topics": [
               "computer-vision",
               "ethical-hacking",
@@ -1370,7 +1370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:31:05.654Z",
+    "last_updated": "2026-11-20T14:08:54.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things and projects built by Algerian developpers.",
